@@ -1,0 +1,3 @@
+// universalPath.hpp
+
+void buildPath();
